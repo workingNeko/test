@@ -2,7 +2,7 @@ import mysql.connector
 
 def get_connection():
     return mysql.connector.connect(
-        host="mysql://root:iFuJTZmhdhpEtMnVYyCMRhNpfqGSGhfV@trolley.proxy.rlwy.net:36970/railway",
+        host="trolley.proxy.rlwy.net",
         user="root",
         password="iFuJTZmhdhpEtMnVYyCMRhNpfqGSGhfV",
         database="railway",
