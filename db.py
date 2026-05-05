@@ -6,5 +6,5 @@ def get_connection():
         user="root",
         password="iFuJTZmhdhpEtMnVYyCMRhNpfqGSGhfV",
         database="railway",
-        port="3306",
+        port=36970,
     )
